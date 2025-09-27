@@ -19,7 +19,7 @@
   <!--Python-->
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--R-->
-   <img src="https://img.shields.io/badge/r-276DC3?style=flat-square&logo=Python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/r-276DC3?style=flat-square&logo=r&logoColor=white"/>
    <br/>
 
    ### Github Stats
