@@ -1,16 +1,30 @@
-## Hi there 👋
+<div>
 
-<!--
-**jsjsjs9899/jsjsjs9899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=navy&height=300&section=header&text=Good%20to%20see%20you)
+  
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <!--Body-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## About Me
+  #### I am a Ph.D. Student in Dept. of Geography, Seoul National University(SNU).<br/>
+  #### I am now studying Spatial Statistics, Network Analysis.<br/>
+  #### 🎓 Barchelor of Geography Education, Gyeongsang National University(GNU)<br/>
+  #### 🎓 Master of Geography, Seoul National University(SNU)<br/>
+  <br/>
+
+  ## Language
+  <!--Python-->
+   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <!--R-->
+   <img src="https://img.shields.io/badge/r-276DC3?style=flat-square&logo=Python&logoColor=white"/>
+   <br/>
+
+   ### Github Stats
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsjsjs9899)](https://github.com/anuraghazra/github-readme-stats)
+   <br/>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsjsjs9899)](https://github.com/anuraghazra/github-readme-stats)
+   
+</div>
