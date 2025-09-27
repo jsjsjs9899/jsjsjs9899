@@ -9,7 +9,7 @@
   <!--Body-->
 
   ## About Me
-  #### Ph.D. Student, Dept. of Geography, Seoul National University @ SNU.<br/>
+  #### 📚 Ph.D. Student, Dept. of Geography, Seoul National University @ SNU.<br/>
   #### 📊 Focus: Spatial Statistics, Network Analysis, Automobile industry, Text Mining<br/>
   #### 🎓 B.A. Geography Education, Gyeongsang National University @ GNU<br/>
   #### 🎓 M.A. Geography, Seoul National University @ SNU<br/>
